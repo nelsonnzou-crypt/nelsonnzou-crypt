@@ -9,7 +9,7 @@ I enjoy building solutions at the intersection of electronics, software, and ene
 
 ## 🛠️ Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=python,arduino,c,cpp,git,github,linux,vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=python,arduino,c,cpp,vscode)]()
 
 ### ⚙️ Electronics & Simulation
 
