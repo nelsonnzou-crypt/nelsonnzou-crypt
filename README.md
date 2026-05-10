@@ -1,6 +1,3 @@
-Here’s your same block with only the ESP32 badge added under Electronics & Simulation. You can paste this straight into your README. [github](https://github.com/nelsonnzou-crypt/nelsonnzou-crypt/edit/main/README.md)
-
-```md
 # Hi there, I'm Tapiwanashe Nelson Nzou 👋
 
 I'm an Electronic Engineering student and Embedded Systems & IoT developer from Zimbabwe.  
