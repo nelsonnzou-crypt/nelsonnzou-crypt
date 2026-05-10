@@ -1,3 +1,6 @@
+Here’s your same block with only the ESP32 badge added under Electronics & Simulation. You can paste this straight into your README. [github](https://github.com/nelsonnzou-crypt/nelsonnzou-crypt/edit/main/README.md)
+
+```md
 # Hi there, I'm Tapiwanashe Nelson Nzou 👋
 
 I'm an Electronic Engineering student and Embedded Systems & IoT developer from Zimbabwe.  
@@ -16,11 +19,11 @@ I enjoy building solutions at the intersection of electronics, software, and ene
 ![Proteus](https://img.shields.io/badge/Proteus_Simulation-0b3d91?style=for-the-badge&logoColor=white)
 ![TinkerCad](https://img.shields.io/badge/TinkerCad_Circuits-00a4e4?style=for-the-badge)
 ![mikroC%20for%20PIC](https://img.shields.io/badge/mikroC_for_PIC-ff6f00?style=for-the-badge&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
 ## 📌 Some of my projects
 
 - 🌿 PIC Greenhouse Monitoring and Control System  
 - 💧 PIC Smart Irrigation System  
 - ❄️ Medical Storage Temperature Monitor (LM35-Based)  
-- ⚡ Three-Phase PWM Signal Generator Concept  
-
+- ⚡ Three-Phase PWM Signal Generator Concept
