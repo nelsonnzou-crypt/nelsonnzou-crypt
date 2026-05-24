@@ -1,7 +1,7 @@
 # Hi there, I'm Tapiwanashe Nelson Nzou 👋
 
 <p align="center">
-  <img src="./Code Hacking GIF by Pizza Ninjas.gif" alt="Code Hacking Animation" width="600">
+  <img src="./Code Hacking GIF by Pizza Ninjas.gif" alt="Code Hacking Animation" width="300">
 </p>
 
 I'm an Electronic Engineering student and Embedded Systems & IoT developer from Zimbabwe.  
