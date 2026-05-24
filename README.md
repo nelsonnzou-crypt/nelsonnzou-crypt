@@ -28,3 +28,15 @@ I enjoy building solutions at the intersection of electronics, software, and ene
 - 💧 PIC Smart Irrigation System  
 - ❄️ Medical Storage Temperature Monitor (LM35-Based)  
 - ⚡ Three-Phase PWM Signal Generator Concept
+
+---
+
+<div align="center">
+  
+  **Made with passion & lots of ☕**
+  
+  <a href="https://www.linkedin.com/in/tapiwanashe-nelson-nzou">
+   <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="100">
+  </a>
+  
+</div>
