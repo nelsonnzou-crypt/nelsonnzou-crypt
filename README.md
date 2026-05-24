@@ -1,6 +1,6 @@
 # Hi there, I'm Tapiwanashe Nelson Nzou 👋
 
-<img src="https://i.makeagif.com/media/1-13-2021/bzqNMj.gif" alt="Circuit Board Animation" width="600"/>
+![Circuit Board Animation](./circuit.gif)
 
 I'm an Electronic Engineering student and Embedded Systems & IoT developer from Zimbabwe.  
 I enjoy building solutions at the intersection of electronics, software, and energy systems, with a focus on real-world impact in African communities.
